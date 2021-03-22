@@ -8,5 +8,5 @@ function newPage () {
 document.getElementById('fact-page').addEventListener('click', nextPage)
 
 function nextPage () {
-  window.location ='https://assignment04.emilyjette.repl.co/index3.html'
+  window.location = 'https://assignment04.emilyjette.repl.co/index3.html'
 }
