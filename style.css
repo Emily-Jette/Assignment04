@@ -61,7 +61,7 @@
 }
 
 div {
-  display: block; 
-  left: auto;
-  right: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
